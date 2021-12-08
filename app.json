@@ -1,0 +1,6 @@
+{
+  "name": "heroku-goagent-php",
+  "description": "heroku-goagent-php",
+  "repository": "https://github.com/shaohaowei/heroku-goagent-php",
+  "addons": []
+}
